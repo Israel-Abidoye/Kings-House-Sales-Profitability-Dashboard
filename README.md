@@ -47,4 +47,9 @@ The data is simulated, covers a single year, and shows patterns only. It cannot 
 - `Dashboard-1.png`, `Dashboard-2.png`, `Dashboard-3.png`: dashboard screenshots
 
 ## Tools
-Microsoft Excel
+Microsoft Excel: data cleaning and quality checks, Excel Tables with calculated columns and structured references, named ranges, SUMIF/SUMIFS/COUNTIF/COUNTIFS, DATE and IFERROR formulas, conditional formatting, charts and a KPI dashboard
+
+## Author
+Israel Abidoye | BoyCode Africa Data Analysis Program, Cohort 5.0
+
+GitHub: [Israel-Abidoye](https://github.com/Israel-Abidoye)
